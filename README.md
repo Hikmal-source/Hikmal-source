@@ -3,6 +3,7 @@
 # 💫 About Me:
 ### Hi, I'm Hikmal 👋 
 💻 Fullstack Developer focused on building scalable and reliable applications 🚀  <br>⚙️ Skilled in React ⚛️, NestJS 🚀, and GraphQL 🔗  <br>🐳 Exploring Docker and backend architecture 🏗️  <br>🚀 Passionate about clean code ✨, system design 🧠, and performance optimization ⚡  <br>🔥 Always learning and building real-world projects  
+
 ![Hikmal](./img/hikmal.jpg) 
 
 ## 🌐 Socials:
