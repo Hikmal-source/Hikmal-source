@@ -4,8 +4,6 @@
 ### Hi, I'm Hikmal 👋 
 💻 Fullstack Developer focused on building scalable and reliable applications 🚀  <br>⚙️ Skilled in React ⚛️, NestJS 🚀, and GraphQL 🔗  <br>🐳 Exploring Docker and backend architecture 🏗️  <br>🚀 Passionate about clean code ✨, system design 🧠, and performance optimization ⚡  <br>🔥 Always learning and building real-world projects  
 
-![Hikmal](./img/hikmal.jpg) 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hikmal.node) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Hikmal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hikmal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Hikmal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hikmal.000) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hikmal_QR) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hikmal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myhikmal000@gmail.com) 
 
